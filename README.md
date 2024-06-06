@@ -22,7 +22,7 @@ Web development learning path involves mastering core technologies like HTML, CS
 |      12 | 📖 Basic JavaScript and DOM                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-basic-javascript-and-dom-290729)             |
 |      13 | 📖 Arrays and Objects                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-arrays-and-objects-290728)                   |
 |      14 | 📖 Data Storage and Retrieval                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-data-storage-and-retrieval-290730)           |
-|      15 | 📖 Drag and Drop                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-drag-and-drop-290731)                        |
+|      15 | 📖 Enhancing Personal Finance Tracker          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-enhancing-personal-finance-tracker-290731)   |
 |      16 | 📖 Implementing the Summary                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-implementing-the-summary-290732)             |
 |      17 | 📖 How jQuery Works                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/jquery-how-jquery-works-153752)                         |
 |      18 | 📖 jQuery Event Basics                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/jquery-jquery-event-basics-153789)                      |
@@ -40,39 +40,39 @@ Web development learning path involves mastering core technologies like HTML, CS
 
 ## More Free Tutorials
 
-- [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
-- [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
-- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-- [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
-- [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
-- [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
-- [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
-- [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
-- [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
-- [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
-- [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
-- [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
-- [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
-- [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
-- [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
-- [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
-- [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
-- [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
-- [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
-- [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
-- [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
-- [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
-- [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
-- [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
-- [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Practice Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
+- [Practice Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- [Practice Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- [Practice Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- [Practice Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+- [Practice OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+- [Practice Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
+- [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- [Practice Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- [Practice Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+- [Practice HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
+- [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
+- [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
+- [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- [Practice jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More
